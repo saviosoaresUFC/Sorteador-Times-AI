@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.env
+test.json
+test_api.py
+test_parser.py
